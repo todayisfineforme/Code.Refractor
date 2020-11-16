@@ -4,6 +4,7 @@ Static HTML webpage that has been refactored.
 
 ## Usage
 
+clone repo and open 'index.html' in preferred browser. 
 
 
 ## Contributing
