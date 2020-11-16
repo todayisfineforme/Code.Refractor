@@ -6,6 +6,7 @@ Static HTML webpage that has been refactored.
 
 clone repo and open 'index.html' in preferred browser. 
 
+-or-
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
