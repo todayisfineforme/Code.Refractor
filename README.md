@@ -1,6 +1,6 @@
 # Horiseon Frontpage
 
-Foobar is a Python library for dealing with word pluralization.
+Static HTML webpage that has been refactored.
 
 ## Installation
 
