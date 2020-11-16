@@ -6,10 +6,6 @@ Static HTML webpage that has been refactored.
 
 Use the node package manager [npm](https://nodejs.org/en/) to install foobar.
 
-```bash
-npm install foobar
-```
-
 ## Usage
 
 ```node.js
