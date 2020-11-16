@@ -2,9 +2,6 @@
 
 Static HTML webpage that has been refactored.
 
-## Installation
-
-
 ## Usage
 
 ```node.js
